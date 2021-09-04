@@ -1,0 +1,9 @@
+/* Prevent y-axis scrollbar changing page width */
+html {
+  overflow-y: overlay
+}
+
+/* Reversing Anatole theme's use of uppercase */
+.post .post-title h1,.post .post-title h2, .post .post-title h3 {
+    text-transform: initial;
+}

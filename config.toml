@@ -1,0 +1,69 @@
+baseURL = 'https://csigildea.github.io/'
+languageCode = 'en-us'
+title = 'Conor Gildea'
+theme = "anatole"
+enableEmoji = true
+enableRobotsTXT = true
+
+
+[params]
+displayMode = "light"
+doNotLoadAnimations = true
+contentratio = 0.7
+customCss = ["css/custom.css"]
+mainSections = []
+summaryLength = 140
+readMore = true
+enableMediumZoom = true
+googleAnalytics = "UA-113450268-1"
+title = "Conor Gildea"
+author = "Conor Gildea"
+profilePicture = "images/profile.jpg"
+description = """
+<b>Software Engineer 👨‍💻</b>
+
+<b>Prior Experience:</b>
+- Ex-Google Intern
+- HackCampus Class of 2018
+- M.C.S. and B.A.(Mod) Computer Science
+
+<b>Recruiters: "Want a job?"</b>
+Not seeking roles but feel free <br> to connect on LinkedIn!
+
+<b>Coffee ☕?</b>
+Sure, email me!
+
+"""
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/csigildea"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/csigildea"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/csigildea"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:publicconor@gmail.com?subject=[Personal Website] <Insert Topic>"
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Projects"
+  weight = 200
+  identifier = "projects"
+  url = "/projects/"

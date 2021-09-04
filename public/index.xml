@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Conor Gildea</title>
+    <link>https://csigildea.github.io/</link>
+    <description>Recent content in Home on Conor Gildea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Aug 2021 14:36:44 +0100</lastBuildDate><atom:link href="https://csigildea.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoTea</title>
+      <link>https://csigildea.github.io/projects/iotea/</link>
+      <pubDate>Sat, 28 Aug 2021 13:55:51 +0100</pubDate>
+      
+      <guid>https://csigildea.github.io/projects/iotea/</guid>
+      
+        <description>   </description>
+      
+    </item>
+    
+    <item>
+      <title>FineMotor - NCT Data Visualization</title>
+      <link>https://csigildea.github.io/projects/fine_motor/</link>
+      <pubDate>Thu, 24 Dec 2020 17:24:37 +0100</pubDate>
+      
+      <guid>https://csigildea.github.io/projects/fine_motor/</guid>
+      
+        <description>   </description>
+      
+    </item>
+    
+    <item>
+      <title>Donations Management Platform Prototype</title>
+      <link>https://csigildea.github.io/projects/change_donations/</link>
+      <pubDate>Sun, 28 Apr 2019 17:24:51 +0100</pubDate>
+      
+      <guid>https://csigildea.github.io/projects/change_donations/</guid>
+      
+        <description>   </description>
+      
+    </item>
+    
+    <item>
+      <title>UK Property Data Visualization</title>
+      <link>https://csigildea.github.io/projects/property_data_vis/</link>
+      <pubDate>Fri, 28 Jul 2017 16:25:36 +0100</pubDate>
+      
+      <guid>https://csigildea.github.io/projects/property_data_vis/</guid>
+      
+        <description>   </description>
+      
+    </item>
+    
+    <item>
+      <title>Bluetooth Airboat - Junior Cert</title>
+      <link>https://csigildea.github.io/projects/jc_airboat/</link>
+      <pubDate>Wed, 28 May 2014 16:42:00 +0100</pubDate>
+      
+      <guid>https://csigildea.github.io/projects/jc_airboat/</guid>
+      
+        <description>   </description>
+      
+    </item>
+    
+  </channel>
+</rss>
