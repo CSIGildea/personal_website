@@ -11,9 +11,9 @@ DisableComments: false
 Using a collection of ESP8266/NodeMCUs, build a network capable of tracking MACs of interest.
 
 ## Method:
-WiFi devices send probing frames to check for faster connections. ESP8266 can pretend to be a validate network, to get these probing frames, enabling collection of the MAC address of WiFi devices. In combination with the RSSI values of the WiFi connection, we can approximate location based on signal strength.
+WiFi devices send probing frames to check for faster connections. ESP8266 can pretend to be a valid network, to get these probing frames, enabling collection of the MAC address of WiFi devices. In combination with the RSSI values of the WiFi connection, we can approximate location based on signal strength.
 
-In this project I also incorporated a GPS module to the ESP8266, which allows for the board to be spatially dynamic e.g. On a police car. The GPS provides a precise location of the board and the RSSI can provide a rough insight into proximity from the board.
+In this project I also incorporated a GPS module to the ESP8266, which allows for the board to be spatially dynamic e.g. On a police car. The GPS module provides a precise location of the board and the RSSI can provide an approximate insight into proximity from the board.
 
 To ensure ethical/legal integrity the network only searches for authorised "MACs of interest", hence does not record all MACs. Only authorized MACs have any data stored i.e. My own MACs for this project.
 

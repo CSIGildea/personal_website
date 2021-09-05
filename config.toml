@@ -8,6 +8,7 @@ enableRobotsTXT = true
 
 [params]
 displayMode = "light"
+disableThemeSwitcher = true
 doNotLoadAnimations = true
 contentratio = 0.7
 customCss = ["css/custom.css"]
@@ -28,7 +29,7 @@ description = """
 - M.C.S. and B.A.(Mod) Computer Science
 
 <b>Recruiters: "Want a job?"</b>
-Not seeking roles but feel free <br> to connect on LinkedIn!
+Not seeking roles, but feel free <br> to connect on LinkedIn!
 
 <b>Coffee ☕?</b>
 Sure, email me!

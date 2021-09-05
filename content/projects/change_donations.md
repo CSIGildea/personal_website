@@ -10,4 +10,4 @@ DisableComments: false
 
 {{< youtube id="sDKnwl819sc" autoplay="true" >}}
 
-Manager on this project, which lead to the creation of a Donations Management Platform Prototype for our clients.
+Manager on this project, which led to the creation of a Donations Management Platform Prototype for our clients.
