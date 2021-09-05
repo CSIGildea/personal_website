@@ -4,7 +4,7 @@ title = 'Conor Gildea'
 theme = "anatole"
 enableEmoji = true
 enableRobotsTXT = true
-
+googleAnalytics = "UA-113450268-1"
 
 [params]
 displayMode = "light"
@@ -16,7 +16,6 @@ mainSections = []
 summaryLength = 140
 readMore = true
 enableMediumZoom = true
-googleAnalytics = "UA-113450268-1"
 title = "Conor Gildea"
 author = "Conor Gildea"
 profilePicture = "images/profile.jpg"
