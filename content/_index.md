@@ -9,7 +9,7 @@ DisableComments: true
 
 ## Welcome! 👋
 
-Here is the home for my current and past projects! 💻
+Here is the home for my [current and past projects](/projects/)! 💻
 
 Feel free to gander and connect via any linked socials. 💼
 

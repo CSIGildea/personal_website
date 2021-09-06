@@ -8,13 +8,10 @@ googleAnalytics = "UA-113450268-1"
 
 [params]
 displayMode = "light"
-disableThemeSwitcher = true
 doNotLoadAnimations = true
 contentratio = 0.7
 customCss = ["css/custom.css"]
 mainSections = []
-summaryLength = 140
-readMore = true
 enableMediumZoom = true
 title = "Conor Gildea"
 author = "Conor Gildea"
