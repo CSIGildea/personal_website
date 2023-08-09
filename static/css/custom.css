@@ -2,3 +2,8 @@
     text-transform: lowercase;
     color: lawngreen;
 }
+
+.email {
+    font-weight: 400;
+    font-size: 1.4rem;
+}

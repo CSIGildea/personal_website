@@ -13,6 +13,8 @@ Here is the home for my [current and past projects](/projects/)! 💻
 
 Feel free to gander and connect via any linked socials. 💼
 
+Reach out via: [publicconor@gmail.com](mailto:publicconor@gmail.com)
+
 Cheers!  
 Conor ✍️
 
