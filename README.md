@@ -1,4 +1,4 @@
-# conor.gildea.dev
+# [conor.gildea.dev](https://conor.gildea.dev/)
 
 Clean, easy to maintain personal website using [gohugo.io](https://gohugo.io)
 
