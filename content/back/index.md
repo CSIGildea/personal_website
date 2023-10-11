@@ -24,7 +24,7 @@ DisableComments: false
 2 sets of 12 reps, hold for 3 secs:
 {{< youtube id="LSkyinhmA8k">}}
 
-### Push-up (Inline Push-up if too difficult)
+### Push-up (Incline Push-up if too difficult)
 2 sets of 12 reps:
 {{< youtube id="IODxDxX7oi4">}}
 
