@@ -6,9 +6,9 @@ Categories: []
 DisableComments: false
 ---
 
-## Back Stretches (Counteract Being an Office Worker)
+## Back Stretches (For Office Worker Shoulders)
 
-### Trunk Rotation w/ head neutral
+### Trunk Rotation w/ Head Neutral
 2 sets of 60 secs:
 {{< youtube id="mpmygXIpeys">}}
 
