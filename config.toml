@@ -19,17 +19,6 @@ profilePicture = "images/profile.jpg"
 description = """
 <b>Software Engineer SRE 👨‍💻 at Google</b>
 
-<b>Prior Experience:</b>
-- Ex-Google Intern x2
-- HackCampus Alumni
-- M.C.S. and B.A.(Mod) Computer Science
-
-<b>Recruiters: "Want a job?"</b>
-Always interested in the best opportunity.
-
-<b>Coffee ☕?</b>
-Sure, email: publicconor@gmail.com
-
 """
 
 [[params.socialIcons]]
