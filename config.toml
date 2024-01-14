@@ -70,3 +70,9 @@ url = "mailto:publicconor@gmail.com?subject=[Personal Website] <Topic>"
   weight = 300
   identifier = "dublists"
   url = "/dublists/"
+
+  [[menu.main]]
+  name = "Coffee Setups"
+  weight = 400
+  identifier = "coffee"
+  url = "/coffee/"
