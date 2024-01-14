@@ -21,6 +21,7 @@ Here is the home for my [current and past projects](/projects/)! 💻
 Always interested in the best opportunity.
 
 **Best method to contact?**
+
 Email [publicconor@gmail.com](mailto:publicconor@gmail.com)
 
 Cheers!  
