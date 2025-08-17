@@ -6,11 +6,11 @@ Categories: []
 DisableComments: false
 ---
 
-### [Things to Do 🎭](https://maps.app.goo.gl/vagZWZ9fmiuoYnu46)
+### [Things to Do 🪉](https://maps.app.goo.gl/vagZWZ9fmiuoYnu46)
 
 ### [Food Places 😋](https://maps.app.goo.gl/Z22jSjLEJxqVgtYo6)
 
-### [Pubs/Bars 🍸](https://maps.app.goo.gl/dnFCybHbuwUa2Dxa6)
+### [Pubs/Bars 🍺](https://maps.app.goo.gl/dnFCybHbuwUa2Dxa6)
 
 Tried and tested lists for visitors to Dublin!
 
