@@ -30,7 +30,7 @@ DisableComments: false
 {{< youtube id="aidvrssMSGo">}}
 
 #### De'Longhi KG79
-{{< youtube id="w_bmIvIIoIM">}}
+{{< youtube id="h7AwZ11TrWA">}}
 
 #### Lavazza MilkUp Frother
 {{< youtube id="R26nFWzYGMA">}}
